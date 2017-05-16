@@ -7,8 +7,8 @@
 //
 
 #import <UIKit/UIKit.h>
-
-@interface ViewController : UIViewController
+#import "LoginManager.h"
+@interface ViewController : UIViewController<GIDSignInUIDelegate,GIDSignInDelegate>
 
 
 @end

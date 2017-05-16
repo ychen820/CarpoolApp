@@ -7,11 +7,14 @@
 //
 
 #import <UIKit/UIKit.h>
-
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
+#import <UserNotifications/UserNotifications.h>
+@import Firebase;
+@import GoogleSignIn;
+@interface AppDelegate : UIResponder <UIApplicationDelegate,UNUserNotificationCenterDelegate,FIRMessagingDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
-
-
+@property (strong, nonatomic) NSString *strDeviceToken;
+@property (strong, nonatomic) NSString *instanceID;
+-(void)setNetworkIndication:(BOOL)setVisible;
 @end
 

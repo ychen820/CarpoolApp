@@ -7,6 +7,47 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		071F8D5899ED23FADD4A731C /* libPods-CarPool.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B95D47445E7997A4A7821883 /* libPods-CarPool.a */; };
+		C516D2731EBA6C3B00C5D83E /* CarPoolDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C516D2721EBA6C3B00C5D83E /* CarPoolDetailViewController.m */; };
+		C516D2761EBB7E4700C5D83E /* UserModel.m in Sources */ = {isa = PBXBuildFile; fileRef = C516D2751EBB7E4700C5D83E /* UserModel.m */; };
+		C523133F1EBA2D1C00812562 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C523133E1EBA2D1C00812562 /* GoogleService-Info.plist */; };
+		C52994581EB2DC7900AE7427 /* plus_math1600.png in Resources */ = {isa = PBXBuildFile; fileRef = C52994481EB2DC7900AE7427 /* plus_math1600.png */; };
+		C52994591EB2DC7900AE7427 /* close.png in Resources */ = {isa = PBXBuildFile; fileRef = C52994491EB2DC7900AE7427 /* close.png */; };
+		C529945A1EB2DC7900AE7427 /* back.png in Resources */ = {isa = PBXBuildFile; fileRef = C529944A1EB2DC7900AE7427 /* back.png */; };
+		C529945B1EB2DC7900AE7427 /* UI8_Logo.png in Resources */ = {isa = PBXBuildFile; fileRef = C529944C1EB2DC7900AE7427 /* UI8_Logo.png */; };
+		C529945C1EB2DC7900AE7427 /* profile-pictures.png in Resources */ = {isa = PBXBuildFile; fileRef = C529944D1EB2DC7900AE7427 /* profile-pictures.png */; };
+		C529945D1EB2DC7900AE7427 /* facebook-app-logo.png in Resources */ = {isa = PBXBuildFile; fileRef = C529944E1EB2DC7900AE7427 /* facebook-app-logo.png */; };
+		C529945E1EB2DC7900AE7427 /* BG Image.png in Resources */ = {isa = PBXBuildFile; fileRef = C529944F1EB2DC7900AE7427 /* BG Image.png */; };
+		C529945F1EB2DC7900AE7427 /* Facebook Button.png in Resources */ = {isa = PBXBuildFile; fileRef = C52994501EB2DC7900AE7427 /* Facebook Button.png */; };
+		C52994601EB2DC7900AE7427 /* settings.png in Resources */ = {isa = PBXBuildFile; fileRef = C52994511EB2DC7900AE7427 /* settings.png */; };
+		C52994611EB2DC7900AE7427 /* login.png in Resources */ = {isa = PBXBuildFile; fileRef = C52994521EB2DC7900AE7427 /* login.png */; };
+		C52994621EB2DC7900AE7427 /* camera.png in Resources */ = {isa = PBXBuildFile; fileRef = C52994531EB2DC7900AE7427 /* camera.png */; };
+		C52994631EB2DC7900AE7427 /* input line.png in Resources */ = {isa = PBXBuildFile; fileRef = C52994541EB2DC7900AE7427 /* input line.png */; };
+		C52994641EB2DC7900AE7427 /* signUp.png in Resources */ = {isa = PBXBuildFile; fileRef = C52994551EB2DC7900AE7427 /* signUp.png */; };
+		C52994651EB2DC7900AE7427 /* ButtonEmpty.png in Resources */ = {isa = PBXBuildFile; fileRef = C52994561EB2DC7900AE7427 /* ButtonEmpty.png */; };
+		C556EFE91EB2F49E0018CFAE /* background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C556EFE81EB2F49E0018CFAE /* background.jpg */; };
+		C556EFEC1EB2FF120018CFAE /* FormViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C556EFEB1EB2FF120018CFAE /* FormViewController.m */; };
+		C556EFEF1EB316240018CFAE /* CustomNavController.m in Sources */ = {isa = PBXBuildFile; fileRef = C556EFEE1EB316240018CFAE /* CustomNavController.m */; };
+		C57302E21EBC23FD0001A280 /* inbox.png in Resources */ = {isa = PBXBuildFile; fileRef = C57302E11EBC23FD0001A280 /* inbox.png */; };
+		C57302E51EBC26FB0001A280 /* MessagesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C57302E41EBC26FB0001A280 /* MessagesViewController.m */; };
+		C57302E81EBC27310001A280 /* MessageTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = C57302E71EBC27310001A280 /* MessageTableViewCell.m */; };
+		C57302EC1EBCD49F0001A280 /* ChatViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C57302EB1EBCD49F0001A280 /* ChatViewController.m */; };
+		C57302EF1EBE420E0001A280 /* UITextFieldWithUnderline.m in Sources */ = {isa = PBXBuildFile; fileRef = C57302EE1EBE420E0001A280 /* UITextFieldWithUnderline.m */; };
+		C57302F31EC0F0FE0001A280 /* iTunesArtwork@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = C57302F21EC0F0FE0001A280 /* iTunesArtwork@3x.png */; };
+		C57D163B1EB917010023E17A /* PostModel.m in Sources */ = {isa = PBXBuildFile; fileRef = C57D163A1EB917010023E17A /* PostModel.m */; };
+		C57D16411EB92DBC0023E17A /* RequestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C57D16401EB92DBC0023E17A /* RequestViewController.m */; };
+		C5960A9B1EB3CA2A00A5AA01 /* LoginManager.m in Sources */ = {isa = PBXBuildFile; fileRef = C5960A9A1EB3CA2A00A5AA01 /* LoginManager.m */; };
+		C5960A9E1EB3DD4D00A5AA01 /* FireBaseManager.m in Sources */ = {isa = PBXBuildFile; fileRef = C5960A9D1EB3DD4D00A5AA01 /* FireBaseManager.m */; };
+		C5960AA21EB4F43900A5AA01 /* CarpoolTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C5960AA11EB4F43900A5AA01 /* CarpoolTableViewController.m */; };
+		C5960AA51EB4F93900A5AA01 /* PostViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C5960AA41EB4F93900A5AA01 /* PostViewController.m */; };
+		C5960AA81EB53A4500A5AA01 /* SearchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C5960AA71EB53A4500A5AA01 /* SearchViewController.m */; };
+		C5960AAB1EB5435300A5AA01 /* LocationManager.m in Sources */ = {isa = PBXBuildFile; fileRef = C5960AAA1EB5435300A5AA01 /* LocationManager.m */; };
+		C5CAC09D1EB7BCF300204939 /* GeoFire.m in Sources */ = {isa = PBXBuildFile; fileRef = C5CAC0941EB7BCF300204939 /* GeoFire.m */; };
+		C5CAC09E1EB7BCF400204939 /* GFBase32Utils.m in Sources */ = {isa = PBXBuildFile; fileRef = C5CAC0961EB7BCF300204939 /* GFBase32Utils.m */; };
+		C5CAC09F1EB7BCF400204939 /* GFGeoHash.m in Sources */ = {isa = PBXBuildFile; fileRef = C5CAC0981EB7BCF300204939 /* GFGeoHash.m */; };
+		C5CAC0A01EB7BCF400204939 /* GFGeoHashQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = C5CAC09A1EB7BCF300204939 /* GFGeoHashQuery.m */; };
+		C5CAC0A11EB7BCF400204939 /* GFQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = C5CAC09C1EB7BCF300204939 /* GFQuery.m */; };
+		C5CAC0AA1EB7DF6F00204939 /* PostViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = C5CAC0A91EB7DF6F00204939 /* PostViewCell.m */; };
 		C5E4716B1EB2C71B00A7E596 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C5E4716A1EB2C71B00A7E596 /* main.m */; };
 		C5E4716E1EB2C71B00A7E596 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C5E4716D1EB2C71B00A7E596 /* AppDelegate.m */; };
 		C5E471711EB2C71B00A7E596 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C5E471701EB2C71B00A7E596 /* ViewController.m */; };
@@ -16,10 +57,81 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4F67E1D4909858AB15B4AD09 /* Pods-CarPool.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CarPool.release.xcconfig"; path = "Pods/Target Support Files/Pods-CarPool/Pods-CarPool.release.xcconfig"; sourceTree = "<group>"; };
+		B95D47445E7997A4A7821883 /* libPods-CarPool.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-CarPool.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B9E7A8E93F873F7B72B97B51 /* Pods-CarPool.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CarPool.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CarPool/Pods-CarPool.debug.xcconfig"; sourceTree = "<group>"; };
+		C516D2711EBA6C3B00C5D83E /* CarPoolDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CarPoolDetailViewController.h; sourceTree = "<group>"; };
+		C516D2721EBA6C3B00C5D83E /* CarPoolDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CarPoolDetailViewController.m; sourceTree = "<group>"; };
+		C516D2741EBB7E4700C5D83E /* UserModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UserModel.h; sourceTree = "<group>"; };
+		C516D2751EBB7E4700C5D83E /* UserModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UserModel.m; sourceTree = "<group>"; };
+		C523133E1EBA2D1C00812562 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		C52994481EB2DC7900AE7427 /* plus_math1600.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = plus_math1600.png; sourceTree = "<group>"; };
+		C52994491EB2DC7900AE7427 /* close.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = close.png; sourceTree = "<group>"; };
+		C529944A1EB2DC7900AE7427 /* back.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = back.png; sourceTree = "<group>"; };
+		C529944C1EB2DC7900AE7427 /* UI8_Logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = UI8_Logo.png; sourceTree = "<group>"; };
+		C529944D1EB2DC7900AE7427 /* profile-pictures.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "profile-pictures.png"; sourceTree = "<group>"; };
+		C529944E1EB2DC7900AE7427 /* facebook-app-logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "facebook-app-logo.png"; sourceTree = "<group>"; };
+		C529944F1EB2DC7900AE7427 /* BG Image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BG Image.png"; sourceTree = "<group>"; };
+		C52994501EB2DC7900AE7427 /* Facebook Button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Facebook Button.png"; sourceTree = "<group>"; };
+		C52994511EB2DC7900AE7427 /* settings.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = settings.png; sourceTree = "<group>"; };
+		C52994521EB2DC7900AE7427 /* login.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = login.png; sourceTree = "<group>"; };
+		C52994531EB2DC7900AE7427 /* camera.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = camera.png; sourceTree = "<group>"; };
+		C52994541EB2DC7900AE7427 /* input line.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "input line.png"; sourceTree = "<group>"; };
+		C52994551EB2DC7900AE7427 /* signUp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = signUp.png; sourceTree = "<group>"; };
+		C52994561EB2DC7900AE7427 /* ButtonEmpty.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ButtonEmpty.png; sourceTree = "<group>"; };
+		C556EFE81EB2F49E0018CFAE /* background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background.jpg; sourceTree = "<group>"; };
+		C556EFEA1EB2FF120018CFAE /* FormViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FormViewController.h; sourceTree = "<group>"; };
+		C556EFEB1EB2FF120018CFAE /* FormViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FormViewController.m; sourceTree = "<group>"; };
+		C556EFED1EB316240018CFAE /* CustomNavController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomNavController.h; sourceTree = "<group>"; };
+		C556EFEE1EB316240018CFAE /* CustomNavController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomNavController.m; sourceTree = "<group>"; };
+		C57302E11EBC23FD0001A280 /* inbox.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = inbox.png; sourceTree = "<group>"; };
+		C57302E31EBC26FB0001A280 /* MessagesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MessagesViewController.h; sourceTree = "<group>"; };
+		C57302E41EBC26FB0001A280 /* MessagesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MessagesViewController.m; sourceTree = "<group>"; };
+		C57302E61EBC27310001A280 /* MessageTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MessageTableViewCell.h; sourceTree = "<group>"; };
+		C57302E71EBC27310001A280 /* MessageTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MessageTableViewCell.m; sourceTree = "<group>"; };
+		C57302EA1EBCD49F0001A280 /* ChatViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChatViewController.h; sourceTree = "<group>"; };
+		C57302EB1EBCD49F0001A280 /* ChatViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChatViewController.m; sourceTree = "<group>"; };
+		C57302ED1EBE420E0001A280 /* UITextFieldWithUnderline.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UITextFieldWithUnderline.h; sourceTree = "<group>"; };
+		C57302EE1EBE420E0001A280 /* UITextFieldWithUnderline.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UITextFieldWithUnderline.m; sourceTree = "<group>"; };
+		C57302F21EC0F0FE0001A280 /* iTunesArtwork@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iTunesArtwork@3x.png"; sourceTree = "<group>"; };
+		C57D16391EB917010023E17A /* PostModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostModel.h; sourceTree = "<group>"; };
+		C57D163A1EB917010023E17A /* PostModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostModel.m; sourceTree = "<group>"; };
+		C57D163F1EB92DBC0023E17A /* RequestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RequestViewController.h; path = ../RequestViewController.h; sourceTree = "<group>"; };
+		C57D16401EB92DBC0023E17A /* RequestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RequestViewController.m; path = ../RequestViewController.m; sourceTree = "<group>"; };
+		C57D16421EBA1E220023E17A /* CarPool.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = CarPool.entitlements; sourceTree = "<group>"; };
+		C5960A991EB3CA2A00A5AA01 /* LoginManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = LoginManager.h; path = ../LoginManager.h; sourceTree = "<group>"; };
+		C5960A9A1EB3CA2A00A5AA01 /* LoginManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = LoginManager.m; path = ../LoginManager.m; sourceTree = "<group>"; };
+		C5960A9C1EB3DD4D00A5AA01 /* FireBaseManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FireBaseManager.h; sourceTree = "<group>"; };
+		C5960A9D1EB3DD4D00A5AA01 /* FireBaseManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FireBaseManager.m; sourceTree = "<group>"; };
+		C5960AA01EB4F43900A5AA01 /* CarpoolTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CarpoolTableViewController.h; sourceTree = "<group>"; };
+		C5960AA11EB4F43900A5AA01 /* CarpoolTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CarpoolTableViewController.m; sourceTree = "<group>"; };
+		C5960AA31EB4F93900A5AA01 /* PostViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostViewController.h; sourceTree = "<group>"; };
+		C5960AA41EB4F93900A5AA01 /* PostViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostViewController.m; sourceTree = "<group>"; };
+		C5960AA61EB53A4500A5AA01 /* SearchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SearchViewController.h; sourceTree = "<group>"; };
+		C5960AA71EB53A4500A5AA01 /* SearchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SearchViewController.m; sourceTree = "<group>"; };
+		C5960AA91EB5435300A5AA01 /* LocationManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LocationManager.h; sourceTree = "<group>"; };
+		C5960AAA1EB5435300A5AA01 /* LocationManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LocationManager.m; sourceTree = "<group>"; };
+		C5CAC08D1EB7BCF300204939 /* GeoFire.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GeoFire.h; sourceTree = "<group>"; };
+		C5CAC08E1EB7BCF300204939 /* GFCircleQuery.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GFCircleQuery.h; sourceTree = "<group>"; };
+		C5CAC08F1EB7BCF300204939 /* GFQuery.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GFQuery.h; sourceTree = "<group>"; };
+		C5CAC0901EB7BCF300204939 /* GFRegionQuery.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GFRegionQuery.h; sourceTree = "<group>"; };
+		C5CAC0911EB7BCF300204939 /* GeoFire-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "GeoFire-Prefix.pch"; sourceTree = "<group>"; };
+		C5CAC0931EB7BCF300204939 /* GeoFire+Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "GeoFire+Private.h"; path = "GeoFire/Implementation/GeoFire+Private.h"; sourceTree = SOURCE_ROOT; };
+		C5CAC0941EB7BCF300204939 /* GeoFire.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GeoFire.m; sourceTree = "<group>"; };
+		C5CAC0951EB7BCF300204939 /* GFBase32Utils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GFBase32Utils.h; sourceTree = "<group>"; };
+		C5CAC0961EB7BCF300204939 /* GFBase32Utils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GFBase32Utils.m; sourceTree = "<group>"; };
+		C5CAC0971EB7BCF300204939 /* GFGeoHash.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GFGeoHash.h; sourceTree = "<group>"; };
+		C5CAC0981EB7BCF300204939 /* GFGeoHash.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GFGeoHash.m; sourceTree = "<group>"; };
+		C5CAC0991EB7BCF300204939 /* GFGeoHashQuery.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GFGeoHashQuery.h; sourceTree = "<group>"; };
+		C5CAC09A1EB7BCF300204939 /* GFGeoHashQuery.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GFGeoHashQuery.m; sourceTree = "<group>"; };
+		C5CAC09B1EB7BCF300204939 /* GFQuery+Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "GFQuery+Private.h"; sourceTree = "<group>"; };
+		C5CAC09C1EB7BCF300204939 /* GFQuery.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GFQuery.m; sourceTree = "<group>"; };
+		C5CAC0A81EB7DF6F00204939 /* PostViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PostViewCell.h; sourceTree = "<group>"; };
+		C5CAC0A91EB7DF6F00204939 /* PostViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PostViewCell.m; sourceTree = "<group>"; };
 		C5E471661EB2C71B00A7E596 /* CarPool.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CarPool.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C5E4716A1EB2C71B00A7E596 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		C5E4716C1EB2C71B00A7E596 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		C5E4716D1EB2C71B00A7E596 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		C5E4716D1EB2C71B00A7E596 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = CarPool/AppDelegate.m; sourceTree = SOURCE_ROOT; };
 		C5E4716F1EB2C71B00A7E596 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		C5E471701EB2C71B00A7E596 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		C5E471731EB2C71C00A7E596 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -33,17 +145,143 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				071F8D5899ED23FADD4A731C /* libPods-CarPool.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5F4938760E8E34A88E44C3EE /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				B95D47445E7997A4A7821883 /* libPods-CarPool.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		C2320DACD6EC9F871C6C4D38 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				B9E7A8E93F873F7B72B97B51 /* Pods-CarPool.debug.xcconfig */,
+				4F67E1D4909858AB15B4AD09 /* Pods-CarPool.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		C529944B1EB2DC7900AE7427 /* NavBar */ = {
+			isa = PBXGroup;
+			children = (
+				C52994491EB2DC7900AE7427 /* close.png */,
+				C529944A1EB2DC7900AE7427 /* back.png */,
+			);
+			name = NavBar;
+			sourceTree = "<group>";
+		};
+		C52994571EB2DC7900AE7427 /* UIImages */ = {
+			isa = PBXGroup;
+			children = (
+				C57302E11EBC23FD0001A280 /* inbox.png */,
+				C57302F21EC0F0FE0001A280 /* iTunesArtwork@3x.png */,
+				C52994481EB2DC7900AE7427 /* plus_math1600.png */,
+				C529944B1EB2DC7900AE7427 /* NavBar */,
+				C529944C1EB2DC7900AE7427 /* UI8_Logo.png */,
+				C529944D1EB2DC7900AE7427 /* profile-pictures.png */,
+				C529944E1EB2DC7900AE7427 /* facebook-app-logo.png */,
+				C529944F1EB2DC7900AE7427 /* BG Image.png */,
+				C52994501EB2DC7900AE7427 /* Facebook Button.png */,
+				C52994511EB2DC7900AE7427 /* settings.png */,
+				C52994521EB2DC7900AE7427 /* login.png */,
+				C52994531EB2DC7900AE7427 /* camera.png */,
+				C52994541EB2DC7900AE7427 /* input line.png */,
+				C52994551EB2DC7900AE7427 /* signUp.png */,
+				C52994561EB2DC7900AE7427 /* ButtonEmpty.png */,
+			);
+			name = UIImages;
+			path = ../../FireBaseDemo/FireBaseDemo;
+			sourceTree = "<group>";
+		};
+		C57302E91EBC27390001A280 /* TableViews */ = {
+			isa = PBXGroup;
+			children = (
+				C57302E61EBC27310001A280 /* MessageTableViewCell.h */,
+				C57302E71EBC27310001A280 /* MessageTableViewCell.m */,
+				C57302E31EBC26FB0001A280 /* MessagesViewController.h */,
+				C57302E41EBC26FB0001A280 /* MessagesViewController.m */,
+				C5960AA61EB53A4500A5AA01 /* SearchViewController.h */,
+				C5960AA71EB53A4500A5AA01 /* SearchViewController.m */,
+				C5960AA01EB4F43900A5AA01 /* CarpoolTableViewController.h */,
+				C57302EA1EBCD49F0001A280 /* ChatViewController.h */,
+				C57302EB1EBCD49F0001A280 /* ChatViewController.m */,
+				C5960AA11EB4F43900A5AA01 /* CarpoolTableViewController.m */,
+			);
+			name = TableViews;
+			sourceTree = "<group>";
+		};
+		C5960A9F1EB3DD5A00A5AA01 /* helpers */ = {
+			isa = PBXGroup;
+			children = (
+				C5960A991EB3CA2A00A5AA01 /* LoginManager.h */,
+				C5960A9A1EB3CA2A00A5AA01 /* LoginManager.m */,
+				C57D16391EB917010023E17A /* PostModel.h */,
+				C57D163A1EB917010023E17A /* PostModel.m */,
+				C5960A9C1EB3DD4D00A5AA01 /* FireBaseManager.h */,
+				C5960A9D1EB3DD4D00A5AA01 /* FireBaseManager.m */,
+				C5960AA91EB5435300A5AA01 /* LocationManager.h */,
+				C516D2741EBB7E4700C5D83E /* UserModel.h */,
+				C516D2751EBB7E4700C5D83E /* UserModel.m */,
+				C5960AAA1EB5435300A5AA01 /* LocationManager.m */,
+			);
+			name = helpers;
+			path = CarPool;
+			sourceTree = SOURCE_ROOT;
+		};
+		C5CAC08B1EB7BCF300204939 /* GeoFire */ = {
+			isa = PBXGroup;
+			children = (
+				C5CAC08C1EB7BCF300204939 /* API */,
+				C5CAC0911EB7BCF300204939 /* GeoFire-Prefix.pch */,
+				C5CAC0921EB7BCF300204939 /* Implementation */,
+			);
+			path = GeoFire;
+			sourceTree = "<group>";
+		};
+		C5CAC08C1EB7BCF300204939 /* API */ = {
+			isa = PBXGroup;
+			children = (
+				C5CAC08D1EB7BCF300204939 /* GeoFire.h */,
+				C5CAC08E1EB7BCF300204939 /* GFCircleQuery.h */,
+				C5CAC08F1EB7BCF300204939 /* GFQuery.h */,
+				C5CAC0901EB7BCF300204939 /* GFRegionQuery.h */,
+			);
+			path = API;
+			sourceTree = "<group>";
+		};
+		C5CAC0921EB7BCF300204939 /* Implementation */ = {
+			isa = PBXGroup;
+			children = (
+				C5CAC0931EB7BCF300204939 /* GeoFire+Private.h */,
+				C5CAC0941EB7BCF300204939 /* GeoFire.m */,
+				C5CAC0951EB7BCF300204939 /* GFBase32Utils.h */,
+				C5CAC0961EB7BCF300204939 /* GFBase32Utils.m */,
+				C5CAC0971EB7BCF300204939 /* GFGeoHash.h */,
+				C5CAC0981EB7BCF300204939 /* GFGeoHash.m */,
+				C5CAC0991EB7BCF300204939 /* GFGeoHashQuery.h */,
+				C5CAC09A1EB7BCF300204939 /* GFGeoHashQuery.m */,
+				C5CAC09B1EB7BCF300204939 /* GFQuery+Private.h */,
+				C5CAC09C1EB7BCF300204939 /* GFQuery.m */,
+			);
+			path = Implementation;
+			sourceTree = "<group>";
+		};
 		C5E4715D1EB2C71B00A7E596 = {
 			isa = PBXGroup;
 			children = (
+				C5CAC08B1EB7BCF300204939 /* GeoFire */,
 				C5E471681EB2C71B00A7E596 /* CarPool */,
 				C5E471671EB2C71B00A7E596 /* Products */,
+				C2320DACD6EC9F871C6C4D38 /* Pods */,
+				5F4938760E8E34A88E44C3EE /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -58,14 +296,34 @@
 		C5E471681EB2C71B00A7E596 /* CarPool */ = {
 			isa = PBXGroup;
 			children = (
+				C57302E91EBC27390001A280 /* TableViews */,
+				C57D16421EBA1E220023E17A /* CarPool.entitlements */,
+				C5960A9F1EB3DD5A00A5AA01 /* helpers */,
+				C5CAC0A81EB7DF6F00204939 /* PostViewCell.h */,
+				C5CAC0A91EB7DF6F00204939 /* PostViewCell.m */,
 				C5E4716C1EB2C71B00A7E596 /* AppDelegate.h */,
 				C5E4716D1EB2C71B00A7E596 /* AppDelegate.m */,
+				C57302ED1EBE420E0001A280 /* UITextFieldWithUnderline.h */,
+				C57302EE1EBE420E0001A280 /* UITextFieldWithUnderline.m */,
 				C5E4716F1EB2C71B00A7E596 /* ViewController.h */,
 				C5E471701EB2C71B00A7E596 /* ViewController.m */,
 				C5E471721EB2C71C00A7E596 /* Main.storyboard */,
+				C516D2711EBA6C3B00C5D83E /* CarPoolDetailViewController.h */,
+				C516D2721EBA6C3B00C5D83E /* CarPoolDetailViewController.m */,
+				C57D163F1EB92DBC0023E17A /* RequestViewController.h */,
+				C57D16401EB92DBC0023E17A /* RequestViewController.m */,
+				C5960AA31EB4F93900A5AA01 /* PostViewController.h */,
+				C5960AA41EB4F93900A5AA01 /* PostViewController.m */,
+				C556EFED1EB316240018CFAE /* CustomNavController.h */,
+				C556EFEE1EB316240018CFAE /* CustomNavController.m */,
+				C556EFEA1EB2FF120018CFAE /* FormViewController.h */,
+				C556EFEB1EB2FF120018CFAE /* FormViewController.m */,
 				C5E471751EB2C71C00A7E596 /* Assets.xcassets */,
+				C556EFE81EB2F49E0018CFAE /* background.jpg */,
 				C5E471771EB2C71C00A7E596 /* LaunchScreen.storyboard */,
 				C5E4717A1EB2C71C00A7E596 /* Info.plist */,
+				C523133E1EBA2D1C00812562 /* GoogleService-Info.plist */,
+				C52994571EB2DC7900AE7427 /* UIImages */,
 				C5E471691EB2C71B00A7E596 /* Supporting Files */,
 			);
 			path = CarPool;
@@ -86,9 +344,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = C5E4717D1EB2C71C00A7E596 /* Build configuration list for PBXNativeTarget "CarPool" */;
 			buildPhases = (
+				8AD3A6CE4996BBAC58038CE5 /* [CP] Check Pods Manifest.lock */,
 				C5E471621EB2C71B00A7E596 /* Sources */,
 				C5E471631EB2C71B00A7E596 /* Frameworks */,
 				C5E471641EB2C71B00A7E596 /* Resources */,
+				D8E7E0144ED093471B08BF6B /* [CP] Embed Pods Frameworks */,
+				A293481BC08DD36B773FF676 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -110,7 +371,16 @@
 				TargetAttributes = {
 					C5E471651EB2C71B00A7E596 = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = RQAE768Z9N;
 						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.Keychain = {
+								enabled = 1;
+							};
+							com.apple.Push = {
+								enabled = 1;
+							};
+						};
 					};
 				};
 			};
@@ -137,21 +407,109 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C556EFE91EB2F49E0018CFAE /* background.jpg in Resources */,
+				C57302F31EC0F0FE0001A280 /* iTunesArtwork@3x.png in Resources */,
+				C529945C1EB2DC7900AE7427 /* profile-pictures.png in Resources */,
+				C52994591EB2DC7900AE7427 /* close.png in Resources */,
 				C5E471791EB2C71C00A7E596 /* LaunchScreen.storyboard in Resources */,
+				C52994621EB2DC7900AE7427 /* camera.png in Resources */,
+				C52994651EB2DC7900AE7427 /* ButtonEmpty.png in Resources */,
+				C529945F1EB2DC7900AE7427 /* Facebook Button.png in Resources */,
+				C52994581EB2DC7900AE7427 /* plus_math1600.png in Resources */,
+				C529945A1EB2DC7900AE7427 /* back.png in Resources */,
+				C529945D1EB2DC7900AE7427 /* facebook-app-logo.png in Resources */,
+				C52994631EB2DC7900AE7427 /* input line.png in Resources */,
+				C523133F1EBA2D1C00812562 /* GoogleService-Info.plist in Resources */,
+				C529945B1EB2DC7900AE7427 /* UI8_Logo.png in Resources */,
 				C5E471761EB2C71C00A7E596 /* Assets.xcassets in Resources */,
+				C52994641EB2DC7900AE7427 /* signUp.png in Resources */,
+				C52994601EB2DC7900AE7427 /* settings.png in Resources */,
+				C57302E21EBC23FD0001A280 /* inbox.png in Resources */,
 				C5E471741EB2C71C00A7E596 /* Main.storyboard in Resources */,
+				C529945E1EB2DC7900AE7427 /* BG Image.png in Resources */,
+				C52994611EB2DC7900AE7427 /* login.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		8AD3A6CE4996BBAC58038CE5 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		A293481BC08DD36B773FF676 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CarPool/Pods-CarPool-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D8E7E0144ED093471B08BF6B /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-CarPool/Pods-CarPool-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		C5E471621EB2C71B00A7E596 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C5960A9E1EB3DD4D00A5AA01 /* FireBaseManager.m in Sources */,
 				C5E471711EB2C71B00A7E596 /* ViewController.m in Sources */,
+				C516D2761EBB7E4700C5D83E /* UserModel.m in Sources */,
+				C5960AA81EB53A4500A5AA01 /* SearchViewController.m in Sources */,
+				C5960AAB1EB5435300A5AA01 /* LocationManager.m in Sources */,
+				C556EFEF1EB316240018CFAE /* CustomNavController.m in Sources */,
+				C57302E51EBC26FB0001A280 /* MessagesViewController.m in Sources */,
+				C57D163B1EB917010023E17A /* PostModel.m in Sources */,
+				C5CAC09D1EB7BCF300204939 /* GeoFire.m in Sources */,
+				C5CAC09E1EB7BCF400204939 /* GFBase32Utils.m in Sources */,
+				C57302EF1EBE420E0001A280 /* UITextFieldWithUnderline.m in Sources */,
+				C5CAC0A11EB7BCF400204939 /* GFQuery.m in Sources */,
 				C5E4716E1EB2C71B00A7E596 /* AppDelegate.m in Sources */,
+				C57302E81EBC27310001A280 /* MessageTableViewCell.m in Sources */,
+				C5CAC0A01EB7BCF400204939 /* GFGeoHashQuery.m in Sources */,
+				C57302EC1EBCD49F0001A280 /* ChatViewController.m in Sources */,
+				C5960A9B1EB3CA2A00A5AA01 /* LoginManager.m in Sources */,
+				C5960AA51EB4F93900A5AA01 /* PostViewController.m in Sources */,
+				C556EFEC1EB2FF120018CFAE /* FormViewController.m in Sources */,
+				C5960AA21EB4F43900A5AA01 /* CarpoolTableViewController.m in Sources */,
+				C5CAC09F1EB7BCF400204939 /* GFGeoHash.m in Sources */,
+				C5CAC0AA1EB7DF6F00204939 /* PostViewCell.m in Sources */,
+				C57D16411EB92DBC0023E17A /* RequestViewController.m in Sources */,
+				C516D2731EBA6C3B00C5D83E /* CarPoolDetailViewController.m in Sources */,
 				C5E4716B1EB2C71B00A7E596 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -272,23 +630,33 @@
 		};
 		C5E4717E1EB2C71C00A7E596 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B9E7A8E93F873F7B72B97B51 /* Pods-CarPool.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = CarPool/CarPool.entitlements;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = RQAE768Z9N;
 				INFOPLIST_FILE = CarPool/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = org.chen.CarPool;
+				PRODUCT_BUNDLE_IDENTIFIER = org.chen.CarpoolApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Debug;
 		};
 		C5E4717F1EB2C71C00A7E596 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4F67E1D4909858AB15B4AD09 /* Pods-CarPool.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = CarPool/CarPool.entitlements;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = RQAE768Z9N;
 				INFOPLIST_FILE = CarPool/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = org.chen.CarPool;
+				PRODUCT_BUNDLE_IDENTIFIER = org.chen.CarpoolApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Release;
 		};
@@ -311,6 +679,7 @@
 				C5E4717F1EB2C71C00A7E596 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
